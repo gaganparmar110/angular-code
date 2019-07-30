@@ -1,0 +1,22 @@
+{
+  "name": "jsjava",
+  "version": "0.0.1",
+  "description": "sample for example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js,java"
+  },
+  "keywords": [
+    "js",
+    "java"
+  ],
+  "author": "codekul",
+  "license": "ISC",
+  "dependencies": {
+    "dgeni": "^0.4.12"
+  }
+}
