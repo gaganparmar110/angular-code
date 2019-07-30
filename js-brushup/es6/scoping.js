@@ -1,3 +1,4 @@
+import api from './module-export.mjs'
 var num=10
 if(true){
     var num=20
